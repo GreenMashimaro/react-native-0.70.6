@@ -65,3 +65,4 @@ buck-out/
 
 .yarn/cache
 .yarn/install-state.gz
+.vscode
